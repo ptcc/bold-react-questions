@@ -99,11 +99,11 @@ https://tylermcginnis.com/react-interview-questions/
 
 **Criar um componente Hello world**
 
-**Criar um contador com um botao de incremento**
-
 **Formas de declarar Componentes que conheces**
 
 **Que métodos do lifecycle conheces?**
+
+**Criar um contador com um botao de incremento**
 
 ## React Mid
 
