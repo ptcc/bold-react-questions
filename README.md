@@ -120,6 +120,8 @@ https://codesandbox.io/s/rzrql382n
 ## React advanced
 ### State management
 ### Code reuse/Hooks/HOCs/Render props
+### Context API
+### Performance
 
 # Engenharia
 ## Unit testing
