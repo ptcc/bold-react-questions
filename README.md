@@ -97,19 +97,23 @@ https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1
 https://tylermcginnis.com/react-interview-questions/
 ## React Easy
 
-**O que é o JSX?**
-
-**O que é o Virtual DOM?**
-
 **Criar um componente Hello world**
 
 **Criar um contador com um botao de incremento**
 
 **Formas de declarar Componentes que conheces**
 
-**Cria um Componente que carrega a info do utilizador quando monta e sempre que o user_id mude**
+**Que métodos do lifecycle conheces?**
 
 ## React Mid
+
+**O que é o JSX?**
+
+**O que é o Virtual DOM?**
+
+**Cria um Componente que carrega a info do utilizador quando monta e sempre que o user_id mude**
+
+**Diferença entre ComponentDidMount, ComponentWillMount e o construtor**
 
 ## React advanced
 ### State management
