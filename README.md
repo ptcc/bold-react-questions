@@ -2,6 +2,11 @@
 Repositório de perguntas para entrevistas de React
 
 # Javascript
+https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+
+https://www.sitepoint.com/5-javascript-interview-exercises/
+
+https://www.toptal.com/javascript/interview-questions
 
 ## JS EASY
 
@@ -89,12 +94,10 @@ for(var i=10;i<100000;i++){
 ```
 
 # React
-https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
-https://www.sitepoint.com/5-javascript-interview-exercises/
-https://www.toptal.com/javascript/interview-questions
-
 https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1
+
 https://tylermcginnis.com/react-interview-questions/
+
 ## React Easy
 
 **Criar um componente Hello world**
