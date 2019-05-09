@@ -113,6 +113,8 @@ https://tylermcginnis.com/react-interview-questions/
 
 **Cria um Componente que carrega a info do utilizador quando monta e sempre que o user_id mude**
 
+https://codesandbox.io/s/rzrql382n
+
 **Diferença entre ComponentDidMount, ComponentWillMount e o construtor**
 
 ## React advanced
