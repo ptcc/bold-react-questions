@@ -34,6 +34,12 @@ sum(2)(3) // returns 5
 
 ## Desenho
 
+**Redux?**
+
+**O que faz um middleware no contexto de redux?**
+
+**Que middlewares para side effects conheces?**
+
 **Que padrões de desenho em React conheces?**
 
 - Compound components
